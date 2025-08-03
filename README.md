@@ -2,8 +2,6 @@
 
 A modern, interactive terminal-style portfolio website built with React, TypeScript, and Tailwind CSS. Experience my professional journey through a nostalgic command-line interface.
 
-![Portfolio Preview](public/image.png)
-
 ## ✨ Features
 
 ### 🎯 Interactive Terminal Experience
