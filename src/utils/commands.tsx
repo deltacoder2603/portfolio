@@ -209,7 +209,7 @@ export const getOutput = (
             {
               name: "🔍 Derplexity — AI-Powered Search Summarizer",
               desc: "Tech Stack: Google Search, Web Scraping, Gemini API. Enhances search experiences by sending queries to Google and retrieving top result URLs, scraping content from these links, and summarizing results into concise answers using Gemini.",
-              link: "derplexity.vercel.app",
+              link: "https://derplexity.vercel.app",
               github: "https://github.com/deltacoder2603/derplexity",
               npm: undefined,
               crate: undefined,
@@ -223,7 +223,7 @@ export const getOutput = (
             {
               name: "🧠 GitMaster — GitHub Repository Assistant",
               desc: "Tech Stack: Gemini API, GitHub API, NLP. Simplifies codebase comprehension by analyzing full repos using Gemini and answering natural language questions about the codebase.",
-              link: "git-master-six.vercel.app",
+              link: "https://git-master-six.vercel.app",
               github: "https://github.com/deltacoder2603/Git-Master",
               npm: undefined,
               crate: undefined,
@@ -231,7 +231,7 @@ export const getOutput = (
             {
               name: "🌿 AyurvedaAI — Ayurvedic Remedy Assistant",
               desc: "Tech Stack: Gemini API, Prompt Engineering. A health-focused chatbot that understands diseases/symptoms from queries, suggests Ayurvedic remedies, and augments results with web data.",
-              link: "ayurveda-aidel.vercel.app",
+              link: "https://ayurveda-aidel.vercel.app",
               github: "https://github.com/deltacoder2603/AyurvedaAI",
               npm: undefined,
               crate: undefined,
@@ -247,7 +247,7 @@ export const getOutput = (
             {
               name: "🎓 AI Tutor — Multi-Agent Subject Assistant",
               desc: "Tech Stack: Gemini API, Python, Multi-Agent Architecture. Personalized tutoring experience with a Central Tutor Agent that delegates queries to subject-specific agents (Physics, Chemistry, Math) for tailored answers.",
-              link: "ai-tutor-frontend-topaz.vercel.app",
+              link: "https://ai-tutor-frontend-topaz.vercel.app",
               github: "https://github.com/deltacoder2603/AiTutor",
               npm: undefined,
               crate: undefined,
