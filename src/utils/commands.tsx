@@ -169,7 +169,6 @@ export const getOutput = (
           <div>
             <span className="text-[#58a6ff] font-semibold text-lg">AI & Agentic Systems</span>
             <p className="text-[#8b949e] mt-1">
-              <span className="text-[#f0883e]">Gemini API</span>,{" "}
               <span className="text-[#f0883e]">Multi-Agent Architecture</span>,{" "}
               <span className="text-[#f0883e]">Prompt Engineering</span>,{" "}
               <span className="text-[#f0883e]">Agentic Frameworks</span>
