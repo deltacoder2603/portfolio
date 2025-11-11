@@ -248,4 +248,5 @@ I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code 
       video: "",
     },
   ],
+  hackathons: [] as const,
 } as const;
