@@ -1,5 +1,19 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
+import type { ReactNode } from "react";
+
+type Hackathon = {
+  title: string;
+  description: string;
+  dates: string;
+  location: string;
+  image?: string;
+  links?: {
+    title: string;
+    href: string;
+    icon: ReactNode;
+  }[];
+};
 
 export const DATA = {
   name: "Srikant Pandey",
@@ -248,5 +262,5 @@ I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code 
       video: "",
     },
   ],
-  hackathons: [] as const,
+  hackathons: [] as Hackathon[],
 } as const;
