@@ -27,10 +27,15 @@ export const DATA = {
 I build production-oriented software using Go, Rust, Node.js, Python, and TypeScript — ranging from deployment platforms, HTTP optimization tooling, container runtimes, networking systems, and compilers to multi-agent AI applications and intelligent developer tools.
 
 My work spans:
+
 • AI systems & multi-agent architectures
+
 • Backend & infrastructure engineering
+
 • Systems programming in Rust & Go
+
 • Networking, containers, and distributed tooling
+
 • Developer platforms & deployment infrastructure
 
 I enjoy building products that combine low-level engineering with practical usability — tools that are fast, scalable, and actually useful in real-world workflows.
@@ -56,21 +61,16 @@ skills: [
   // Backend & APIs
   "Node.js",
   "REST APIs",
-  "WebSockets",
   "Microservices",
 
   // AI & ML
   "Gemini API",
-  "Prompt Engineering",
   "Multi-Agent Systems",
   "AI Tooling",
 
   // Systems & Infra
   "Linux",
-  "Docker",
   "TCP/IP",
-  "Reverse Proxy",
-  "Containerization",
   "Performance Optimization",
 
   // Database & Tooling
@@ -81,10 +81,6 @@ skills: [
   // Media & Processing
   "FFmpeg",
   "Web Scraping",
-
-  // Cloud & Platforms
-  "Cloudflare Workers",
-  "Stripe",
 ],
 
   navbar: [
