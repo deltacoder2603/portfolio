@@ -179,6 +179,30 @@ I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code 
     image: "/remotify.png",
     video: "",
   },
+        {
+  title: "http-delta — HTTP Performance Optimizer",
+  href: "https://github.com/deltacoder2603/http-delta",
+  dates: "2025",
+  active: true,
+  description:
+    "Helps existing Node.js servers run closer to their real performance potential without rewrites, framework migrations, or risky architectural changes. Applies smart HTTP tuning, reduces response overhead, and adds production-grade monitoring in a single line.",
+  technologies: [
+    "Node.js",
+    "HTTP",
+    "Performance Optimization",
+    "Middleware",
+    "Monitoring",
+  ],
+  links: [
+    {
+      type: "Source",
+      href: "https://github.com/deltacoder2603/http-delta",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/httpdelta.png",
+  video: "",
+},
   {
     title: "TraceNet — Real-Time Network Monitor",
     href: "https://github.com/deltacoder2603/tracenet",
