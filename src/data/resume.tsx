@@ -143,6 +143,206 @@ I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code 
   ],
 
   projects: [
+    
+    title: "Del — Parallel HTTP Client & Downloader",
+    href: "https://github.com/deltacoder2603/del",
+    dates: "2025",
+    active: true,
+    description:
+      "Production-inspired HTTP client and parallel file downloader written in Go, combining curl-like flexibility with IDM-style multi-part accelerated downloads.",
+    technologies: ["Go", "HTTP", "Concurrency", "CLI"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/del",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/del.png",
+    video: "",
+  },
+  {
+    title: "Tunnl — Instant Frontend Deployment Platform",
+    href: "https://github.com/deltacoder2603/tunnl",
+    dates: "2025",
+    active: true,
+    description:
+      "Lightweight deployment platform that uploads frontend builds via CLI and instantly exposes them through public URLs, inspired by Vercel and Netlify.",
+    technologies: [
+      "Go",
+      "CLI",
+      "Reverse Proxy",
+      "Deployment Infrastructure",
+    ],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/tunnl",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/tunnl.png",
+    video: "",
+  },
+  {
+    title: "Remotify — LAN Remote Terminal System",
+    href: "https://github.com/deltacoder2603/remotify",
+    dates: "2025",
+    active: true,
+    description:
+      "SSH-like remote terminal system enabling real-time command execution across devices using mDNS discovery and PTY-based shell streaming.",
+    technologies: ["Go", "mDNS", "PTY", "TCP Networking"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/remotify",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/remotify.png",
+    video: "",
+  },
+  {
+    title: "TraceNet — Real-Time Network Monitor",
+    href: "https://github.com/deltacoder2603/tracenet",
+    dates: "2025",
+    active: true,
+    description:
+      "Terminal-based network monitoring tool providing live insights into active TCP connections, remote hosts, and connection states.",
+    technologies: ["Go", "Networking", "TCP/IP", "Terminal UI"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/tracenet",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/tracenet.png",
+    video: "",
+  },
+  {
+    title: "EasyDrop — LAN File Transfer Tool",
+    href: "https://github.com/deltacoder2603/easydrop",
+    dates: "2025",
+    active: true,
+    description:
+      "Cross-platform LAN file transfer tool written in Rust for fast and secure peer-to-peer sharing without internet connectivity.",
+    technologies: ["Rust", "TCP", "Peer-to-Peer", "Cross Platform"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/easydrop",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/easydrop.png",
+    video: "",
+  },
+  {
+    title: "DSL — Lightweight Linux Container Runtime",
+    href: "https://github.com/deltacoder2603/dsl",
+    dates: "2025",
+    active: true,
+    description:
+      "Containerization tool implementing Linux namespaces, cgroups, and chroot isolation to run lightweight Linux environments with configurable resource limits.",
+    technologies: ["Rust", "Linux Namespaces", "cgroups", "Containers"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/dsl",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/dsl.png",
+    video: "",
+  },
+  {
+    title: "Delta — Educational Programming Language",
+    href: "https://github.com/deltacoder2603/delta",
+    dates: "2025",
+    active: true,
+    description:
+      "JavaScript-like programming language and interpreter written in Rust implementing a full compiler pipeline: lexer, parser, AST generation, and runtime execution.",
+    technologies: ["Rust", "Compiler Design", "Parsing", "AST"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/delta",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/delta.png",
+    video: "",
+  },
+  {
+    title: "Pulse — Terminal System Monitor",
+    href: "https://github.com/deltacoder2603/pulse",
+    dates: "2025",
+    active: true,
+    description:
+      "Terminal-based real-time system monitor providing insights into CPU, memory, disk usage, and running processes.",
+    technologies: [
+      "Rust",
+      "System Programming",
+      "Terminal UI",
+      "Performance Monitoring",
+    ],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/pulse",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/pulse.png",
+    video: "",
+  },
+  {
+    title: "Derplexity — AI-Powered Search Summarizer",
+    href: "https://derplexity.vercel.app",
+    dates: "2024",
+    active: true,
+    description:
+      "Sends queries to Google, scrapes top results, and uses Gemini to summarize into crisp answers.",
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Gemini API",
+      "Web Scraping",
+    ],
+    links: [
+      {
+        type: "Website",
+        href: "https://derplexity.vercel.app",
+        icon: <Icons.globe className="size-3" />,
+      },
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/derplexity",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/derp.png",
+    video: "",
+  },
+  {
+    title: "Zenith — One-Click Deployment",
+    href: "https://github.com/deltacoder2603/zenith",
+    dates: "2025",
+    active: true,
+    description:
+      "Instantly deploy web apps from GitHub with auto build detection, framework-agnostic support, ngrok live previews, and modular Go microservices.",
+    technologies: ["Go", "Next.js", "ngrok", "Microservices"],
+    links: [
+      {
+        type: "Source",
+        href: "https://github.com/deltacoder2603/zenith",
+        icon: <Icons.github className="size-3" />,
+      },
+    ],
+    image: "/zen.png",
+    video: "",
+  },
     {
       title: "Derplexity — AI-Powered Search Summarizer",
       href: "https://derplexity.vercel.app",
