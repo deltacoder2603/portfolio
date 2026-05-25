@@ -22,25 +22,70 @@ export const DATA = {
   location: "India",
   locationLink: "https://www.google.com/maps/place/India",
   description: "AI-powered developer",
-  summary: `Hey there! 👋 I'm Srikant — an AI engineer building intelligent systems that actually matter, a full-stack developer crafting experiences with React, Node.js, and Python, and a Web3 enthusiast exploring the decentralized future.
+  summary: `Hey there! 👋 I'm Srikant — a software engineer focused on AI systems, backend infrastructure, distributed systems, and developer tooling.
 
-I’m obsessed with AI systems and multi-agent architectures, and I love shipping practical tools: AI search, repo assistants, video processing, and one-click deployers that help people get work done faster.
+I build production-oriented software using Go, Rust, Node.js, Python, and TypeScript — ranging from deployment platforms, HTTP optimization tooling, container runtimes, networking systems, and compilers to multi-agent AI applications and intelligent developer tools.
 
-I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code to the beat, debug to the rhythm. 🎶`,
-  avatarUrl: "/me.png",
+My work spans:
+• AI systems & multi-agent architectures
+• Backend & infrastructure engineering
+• Systems programming in Rust & Go
+• Networking, containers, and distributed tooling
+• Developer platforms & deployment infrastructure
 
-  skills: [
-    // Core
-    "JavaScript", "TypeScript", "Python",
-    "React", "Next.js", "Node.js",
-    // AI & agentic
-    "Prompt Engineering", "Multi-Agent Systems",
-    // Data/infra/tools
-    "REST APIs", "Web Scraping", "PostgreSQL", "Prisma",
-    "FFmpeg", "Git/GitHub",
-    // Extras you’ve used across projects
-    "TailwindCSS", "shadcn/ui", "Stripe", "Cloudflare Workers", "Go"
-  ],
+I enjoy building products that combine low-level engineering with practical usability — tools that are fast, scalable, and actually useful in real-world workflows.
+
+Currently exploring infrastructure engineering, AI-powered systems, and high-performance backend architecture.`,
+
+avatarUrl: "/me.png",
+
+skills: [
+  // Languages
+  "Go",
+  "Rust",
+  "Python",
+  "TypeScript",
+  "JavaScript",
+
+  // Frontend
+  "React",
+  "Next.js",
+  "TailwindCSS",
+  "shadcn/ui",
+
+  // Backend & APIs
+  "Node.js",
+  "REST APIs",
+  "WebSockets",
+  "Microservices",
+
+  // AI & ML
+  "Gemini API",
+  "Prompt Engineering",
+  "Multi-Agent Systems",
+  "AI Tooling",
+
+  // Systems & Infra
+  "Linux",
+  "Docker",
+  "TCP/IP",
+  "Reverse Proxy",
+  "Containerization",
+  "Performance Optimization",
+
+  // Database & Tooling
+  "PostgreSQL",
+  "Prisma",
+  "Git/GitHub",
+
+  // Media & Processing
+  "FFmpeg",
+  "Web Scraping",
+
+  // Cloud & Platforms
+  "Cloudflare Workers",
+  "Stripe",
+],
 
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
