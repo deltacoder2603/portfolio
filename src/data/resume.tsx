@@ -162,29 +162,6 @@ I’m the Bollywood coder whose best bugs get fixed to epic Indian tracks. Code 
     video: "",
   },
   {
-    title: "Tunnl — Instant Frontend Deployment Platform",
-    href: "https://github.com/deltacoder2603/tunnl",
-    dates: "2025",
-    active: true,
-    description:
-      "Lightweight deployment platform that uploads frontend builds via CLI and instantly exposes them through public URLs, inspired by Vercel and Netlify.",
-    technologies: [
-      "Go",
-      "CLI",
-      "Reverse Proxy",
-      "Deployment Infrastructure",
-    ],
-    links: [
-      {
-        type: "Source",
-        href: "https://github.com/deltacoder2603/tunnl",
-        icon: <Icons.github className="size-3" />,
-      },
-    ],
-    image: "/tunnl.png",
-    video: "",
-  },
-  {
     title: "Remotify — LAN Remote Terminal System",
     href: "https://github.com/deltacoder2603/remotify",
     dates: "2025",
