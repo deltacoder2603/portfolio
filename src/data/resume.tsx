@@ -21,7 +21,7 @@ export const DATA = {
   url: "https://srikantpandey.vercel.app",
   location: "India",
   locationLink: "https://www.google.com/maps/place/India",
-  description: "AI-powered developer",
+  description: "Backend & Systems Engineer — Rust, Go, AI",
   summary: `Hey there! 👋 I'm Srikant — a software engineer focused on AI systems, backend infrastructure, distributed systems, and developer tooling.
 
 I build production-oriented software using Go, Rust, Node.js, Python, and TypeScript — ranging from deployment platforms, HTTP optimization tooling, container runtimes, networking systems, and compilers to multi-agent AI applications and intelligent developer tools.
