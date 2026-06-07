@@ -134,7 +134,7 @@ skills: [
       title: "Junior AI Engineer",
       logoUrl: "./im.png",
       start: "Jun 2025",
-      end: "Present",
+      end: "Nov 2025",
       description:
         "Building AI-powered solutions: developing and implementing models, collaborating on productized AI features, and contributing to infra & tooling.",
     },
